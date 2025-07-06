@@ -55,7 +55,7 @@
 - 🧰 Tech Stack: Java, Spring Boot, React, Next.js, MySQL, PostgreSQL, MongoDB
 - 🛠️ Tools: VS Code, Postman, Git, GitHub, Docker, IntelliJ, Jenkins
 - 📬 Reach me at: tharunikamuralik@gmail.com 
-- 🔗 Portfolio: yourportfolio.com
+- 🔗 Portfolio: tharunikaportfolio.onrender.com
 
 ---
 
